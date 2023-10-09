@@ -1,4 +1,7 @@
 # Tic-Tac-Toe Game
+
+### This application was completely built using ChatGPT and various other tools available on the internet. It does suggest how you can build apps with absolutely "NO CODE"!
+
 A modern and stylish web-based Tic-Tac-Toe game that brings classic fun to your browser. Play with a friend and enjoy the sleek design, stylish 'X' and 'O' symbols, and a popup win announcement. Try it out and relive the excitement of this timeless game!
 This is a simple web-based Tic-Tac-Toe game built using HTML, CSS, and JavaScript. It allows two players to take turns marking the cells with 'X' and 'O' and announces the winner in a stylish popup message.
 
